@@ -1,0 +1,81 @@
+body{
+    font-family: 'Gantari', sans-serif;
+}
+.skip{
+    color: orange;
+}
+.click-button{
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    text-decoration: none;
+    border-radius: 20px;
+    font-weight: 700;
+}
+.Flexibel{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-width{
+    width: 50%;
+ padding-left: 10%;
+ padding-right: 10%;
+}
+.half-width img{
+    width: 100;
+}
+.middel-banner{
+    background-image: url(images/shapes/7.png);
+    padding: 10px;
+
+}
+.box-shadwo{width: 50%;
+   margin-left: 5%;
+   margin-right: 5%;
+   padding-left: 10px;
+   border-radius: 7px;
+   box-shadow: 10px 15px 40px gray;
+ 
+
+}
+
+.Mid{
+    text-align: center;
+}
+.padding{
+    padding: 10px;
+    width: 500px;
+    
+}
+h3{
+    font-weight: 700;
+}
+.Inline{
+    display: inline-flex;
+    margin-left: 30%;
+    margin-bottom: 20px;
+    text-align: center;
+    padding: 0px 100px;
+    box-shadow: 10px 15px 30px gray;
+    
+}
+p{
+padding-left: 5px;
+}
+#color{
+    color: tomato;
+}
+.bg{
+    text-align: center;
+    background-color: black;
+    padding: 10px 5px;
+}
+.bg p{
+    color: whitesmoke;
+}
+.bg h1{
+    color: white;
+}
+
+
+
+
